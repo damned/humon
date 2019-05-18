@@ -1,0 +1,2558 @@
+Type [C-a] [C-h] to see available commands
+
+Terminal ready
+
+[dht_demo]
+temperature = 328
+humidity = 251
+
+x
+temperature = 328
+humidity = 254
+
+x
+temperature = 328
+humidity = 250
+
+x
+temperature = 328
+humidity = 250
+
+x
+temperature = 329
+humidity = 250
+
+x
+temperature = 329
+humidity = 250
+
+x
+temperature = 329
+humidity = 249
+
+x
+temperature = 329
+humidity = 250
+
+x
+temperature = 329
+humidity = 250
+
+x
+temperature = 330
+humidity = 253
+
+x
+temperature = 330
+humidity = 264
+
+x
+temperature = 328
+humidity = 259
+
+x
+temperature = 328
+humidity = 259
+
+x
+temperature = 326
+humidity = 258
+
+x
+temperature = 324
+humidity = 258
+
+x
+temperature = 323
+humidity = 258
+
+x
+temperature = 322
+humidity = 258
+
+x
+temperature = 321
+humidity = 258
+
+x
+temperature = 320
+humidity = 259
+
+x
+temperature = 319
+humidity = 257
+
+x
+temperature = 317
+humidity = 258
+
+x
+temperature = 317
+humidity = 258
+
+x
+temperature = 315
+humidity = 259
+
+x
+temperature = 314
+humidity = 260
+
+x
+temperature = 313
+humidity = 261
+
+x
+temperature = 311
+humidity = 262
+
+x
+temperature = 310
+humidity = 263
+
+x
+temperature = 309
+humidity = 261
+
+x
+temperature = 308
+humidity = 261
+
+x
+temperature = 307
+humidity = 262
+
+x
+temperature = 306
+humidity = 264
+
+x
+temperature = 305
+humidity = 265
+
+x
+temperature = 304
+humidity = 267
+
+x
+temperature = 303
+humidity = 269
+
+x
+temperature = 302
+humidity = 271
+
+x
+temperature = 301
+humidity = 273
+
+x
+temperature = 301
+humidity = 274
+
+x
+temperature = 300
+humidity = 276
+
+x
+temperature = 299
+humidity = 273
+
+x
+temperature = 298
+humidity = 273
+
+x
+temperature = 297
+humidity = 273
+
+x
+temperature = 296
+humidity = 274
+
+x
+temperature = 296
+humidity = 275
+
+x
+temperature = 295
+humidity = 275
+
+x
+temperature = 294
+humidity = 275
+
+x
+temperature = 294
+humidity = 277
+
+x
+temperature = 293
+humidity = 278
+
+x
+temperature = 292
+humidity = 280
+
+x
+temperature = 292
+humidity = 281
+
+x
+temperature = 291
+humidity = 281
+
+x
+temperature = 290
+humidity = 281
+
+x
+temperature = 290
+humidity = 282
+
+x
+temperature = 289
+humidity = 279
+
+x
+temperature = 288
+humidity = 280
+
+x
+temperature = 288
+humidity = 281
+
+x
+temperature = 287
+humidity = 282
+
+x
+temperature = 286
+humidity = 283
+
+x
+temperature = 286
+humidity = 284
+
+x
+temperature = 285
+humidity = 285
+
+x
+temperature = 285
+humidity = 285
+
+x
+temperature = 284
+humidity = 286
+
+x
+temperature = 283
+humidity = 287
+
+x
+temperature = 283
+humidity = 289
+
+x
+temperature = 282
+humidity = 290
+
+x
+temperature = 282
+humidity = 290
+
+x
+temperature = 282
+humidity = 291
+
+x
+temperature = 281
+humidity = 292
+
+x
+temperature = 281
+humidity = 293
+
+x
+temperature = 280
+humidity = 293
+
+x
+temperature = 280
+humidity = 295
+
+x
+temperature = 280
+humidity = 295
+
+x
+temperature = 279
+humidity = 292
+
+x
+temperature = 278
+humidity = 293
+
+x
+temperature = 278
+humidity = 293
+
+x
+temperature = 278
+humidity = 294
+
+x
+temperature = 277
+humidity = 295
+
+x
+temperature = 277
+humidity = 295
+
+x
+temperature = 276
+humidity = 296
+
+x
+temperature = 275
+humidity = 297
+
+x
+temperature = 275
+humidity = 298
+
+x
+temperature = 275
+humidity = 299
+
+x
+temperature = 274
+humidity = 300
+
+x
+temperature = 273
+humidity = 300
+
+x
+temperature = 273
+humidity = 301
+
+x
+temperature = 273
+humidity = 301
+
+x
+temperature = 272
+humidity = 302
+
+x
+temperature = 272
+humidity = 303
+
+x
+temperature = 271
+humidity = 304
+
+x
+temperature = 271
+humidity = 306
+
+x
+temperature = 271
+humidity = 307
+
+x
+temperature = 270
+humidity = 307
+
+x
+temperature = 270
+humidity = 308
+
+x
+temperature = 269
+humidity = 303
+
+x
+temperature = 269
+humidity = 302
+
+x
+temperature = 269
+humidity = 303
+
+x
+temperature = 268
+humidity = 304
+
+x
+temperature = 268
+humidity = 305
+
+x
+temperature = 268
+humidity = 307
+
+x
+temperature = 268
+humidity = 309
+
+x
+temperature = 267
+humidity = 310
+
+x
+temperature = 267
+humidity = 310
+
+x
+temperature = 267
+humidity = 310
+
+x
+temperature = 267
+humidity = 310
+
+x
+temperature = 266
+humidity = 310
+
+x
+temperature = 266
+humidity = 311
+
+x
+temperature = 266
+humidity = 312
+
+x
+temperature = 265
+humidity = 313
+
+x
+temperature = 266
+humidity = 313
+
+x
+temperature = 265
+humidity = 314
+
+x
+temperature = 265
+humidity = 315
+
+x
+temperature = 265
+humidity = 315
+
+x
+temperature = 264
+humidity = 316
+
+x
+temperature = 264
+humidity = 316
+
+x
+temperature = 264
+humidity = 316
+
+x
+temperature = 264
+humidity = 317
+
+x
+temperature = 263
+humidity = 317
+
+x
+temperature = 263
+humidity = 318
+
+x
+temperature = 263
+humidity = 319
+
+x
+temperature = 262
+humidity = 319
+
+x
+temperature = 262
+humidity = 320
+
+x
+temperature = 262
+humidity = 321
+
+x
+temperature = 262
+humidity = 321
+
+x
+temperature = 262
+humidity = 321
+
+x
+temperature = 262
+humidity = 321
+
+x
+temperature = 262
+humidity = 321
+
+x
+temperature = 261
+humidity = 321
+
+x
+temperature = 261
+humidity = 321
+
+x
+temperature = 261
+humidity = 322
+
+x
+temperature = 261
+humidity = 322
+
+x
+temperature = 260
+humidity = 323
+
+x
+temperature = 260
+humidity = 323
+
+x
+temperature = 260
+humidity = 323
+
+x
+temperature = 260
+humidity = 324
+
+x
+temperature = 259
+humidity = 320
+
+x
+temperature = 259
+humidity = 320
+
+x
+temperature = 259
+humidity = 320
+
+x
+temperature = 259
+humidity = 320
+
+x
+temperature = 259
+humidity = 320
+
+x
+temperature = 258
+humidity = 320
+
+x
+temperature = 258
+humidity = 321
+
+x
+temperature = 258
+humidity = 321
+
+x
+temperature = 258
+humidity = 322
+
+x
+temperature = 258
+humidity = 323
+
+x
+temperature = 258
+humidity = 323
+
+x
+temperature = 257
+humidity = 323
+
+x
+temperature = 257
+humidity = 322
+
+x
+temperature = 257
+humidity = 321
+
+x
+temperature = 257
+humidity = 321
+
+x
+temperature = 256
+humidity = 321
+
+x
+temperature = 256
+humidity = 322
+
+x
+temperature = 256
+humidity = 322
+
+x
+temperature = 256
+humidity = 323
+
+x
+temperature = 255
+humidity = 322
+
+x
+temperature = 255
+humidity = 323
+
+x
+temperature = 255
+humidity = 323
+
+x
+temperature = 255
+humidity = 323
+
+x
+temperature = 254
+humidity = 323
+
+x
+temperature = 254
+humidity = 324
+
+x
+temperature = 254
+humidity = 324
+
+x
+temperature = 254
+humidity = 324
+
+x
+temperature = 254
+humidity = 324
+
+x
+temperature = 254
+humidity = 325
+
+x
+temperature = 254
+humidity = 325
+
+x
+temperature = 253
+humidity = 325
+
+x
+temperature = 253
+humidity = 326
+
+x
+temperature = 253
+humidity = 326
+
+x
+temperature = 253
+humidity = 327
+
+x
+temperature = 253
+humidity = 327
+
+x
+temperature = 253
+humidity = 327
+
+x
+temperature = 253
+humidity = 327
+
+x
+temperature = 252
+humidity = 328
+
+x
+temperature = 252
+humidity = 328
+
+x
+temperature = 252
+humidity = 329
+
+x
+temperature = 252
+humidity = 330
+
+x
+temperature = 251
+humidity = 330
+
+x
+temperature = 251
+humidity = 331
+
+x
+temperature = 251
+humidity = 332
+
+x
+temperature = 251
+humidity = 331
+
+x
+temperature = 251
+humidity = 331
+
+x
+temperature = 251
+humidity = 331
+
+x
+temperature = 251
+humidity = 332
+
+x
+temperature = 251
+humidity = 332
+
+x
+temperature = 250
+humidity = 332
+
+x
+temperature = 250
+humidity = 332
+
+x
+temperature = 250
+humidity = 332
+
+x
+temperature = 249
+humidity = 332
+
+x
+temperature = 249
+humidity = 333
+
+x
+temperature = 249
+humidity = 334
+
+x
+temperature = 249
+humidity = 334
+
+x
+temperature = 249
+humidity = 334
+
+x
+temperature = 249
+humidity = 335
+
+x
+temperature = 249
+humidity = 335
+
+x
+temperature = 249
+humidity = 335
+
+x
+temperature = 249
+humidity = 335
+
+x
+temperature = 248
+humidity = 334
+
+x
+temperature = 248
+humidity = 335
+
+x
+temperature = 248
+humidity = 335
+
+x
+temperature = 248
+humidity = 336
+
+x
+temperature = 248
+humidity = 336
+
+x
+temperature = 248
+humidity = 337
+
+x
+temperature = 248
+humidity = 338
+
+x
+temperature = 248
+humidity = 338
+
+x
+temperature = 247
+humidity = 338
+
+x
+temperature = 247
+humidity = 338
+
+x
+temperature = 247
+humidity = 339
+
+x
+temperature = 247
+humidity = 339
+
+x
+temperature = 247
+humidity = 340
+
+x
+temperature = 247
+humidity = 341
+
+x
+temperature = 247
+humidity = 341
+
+x
+temperature = 247
+humidity = 342
+
+x
+temperature = 247
+humidity = 343
+
+x
+temperature = 247
+humidity = 343
+
+x
+temperature = 247
+humidity = 343
+
+x
+temperature = 247
+humidity = 343
+
+x
+temperature = 247
+humidity = 344
+
+x
+temperature = 247
+humidity = 344
+
+x
+temperature = 247
+humidity = 344
+
+x
+temperature = 247
+humidity = 344
+
+x
+temperature = 247
+humidity = 344
+
+x
+temperature = 247
+humidity = 343
+
+x
+temperature = 247
+humidity = 343
+
+x
+temperature = 247
+humidity = 343
+
+x
+temperature = 247
+humidity = 343
+
+x
+temperature = 247
+humidity = 343
+
+x
+temperature = 247
+humidity = 343
+
+x
+temperature = 247
+humidity = 343
+
+x
+temperature = 246
+humidity = 342
+
+x
+temperature = 246
+humidity = 342
+
+x
+temperature = 246
+humidity = 343
+
+x
+temperature = 246
+humidity = 343
+
+x
+temperature = 246
+humidity = 343
+
+x
+temperature = 246
+humidity = 343
+
+x
+temperature = 246
+humidity = 344
+
+x
+temperature = 246
+humidity = 345
+
+x
+temperature = 246
+humidity = 345
+
+x
+temperature = 246
+humidity = 344
+
+x
+temperature = 246
+humidity = 343
+
+x
+temperature = 246
+humidity = 343
+
+x
+temperature = 245
+humidity = 343
+
+x
+temperature = 246
+humidity = 343
+
+x
+temperature = 246
+humidity = 344
+
+x
+temperature = 245
+humidity = 345
+
+x
+temperature = 245
+humidity = 345
+
+x
+temperature = 245
+humidity = 345
+
+x
+temperature = 245
+humidity = 346
+
+x
+temperature = 245
+humidity = 346
+
+x
+temperature = 245
+humidity = 346
+
+x
+temperature = 245
+humidity = 346
+
+x
+temperature = 245
+humidity = 346
+
+x
+temperature = 245
+humidity = 345
+
+x
+temperature = 245
+humidity = 346
+
+x
+temperature = 245
+humidity = 346
+
+x
+temperature = 245
+humidity = 346
+
+x
+temperature = 245
+humidity = 347
+
+x
+temperature = 245
+humidity = 346
+
+x
+temperature = 245
+humidity = 346
+
+x
+temperature = 245
+humidity = 347
+
+x
+temperature = 245
+humidity = 346
+
+x
+temperature = 245
+humidity = 346
+
+x
+temperature = 244
+humidity = 345
+
+x
+temperature = 244
+humidity = 345
+
+x
+temperature = 244
+humidity = 345
+
+x
+temperature = 244
+humidity = 345
+
+x
+temperature = 244
+humidity = 345
+
+x
+temperature = 244
+humidity = 345
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 345
+
+x
+temperature = 244
+humidity = 345
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 245
+humidity = 347
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 345
+
+x
+temperature = 244
+humidity = 345
+
+x
+temperature = 244
+humidity = 345
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 349
+
+x
+temperature = 244
+humidity = 349
+
+x
+temperature = 244
+humidity = 349
+
+x
+temperature = 244
+humidity = 349
+
+x
+temperature = 244
+humidity = 349
+
+x
+temperature = 244
+humidity = 350
+
+x
+temperature = 244
+humidity = 349
+
+x
+temperature = 244
+humidity = 350
+
+x
+temperature = 244
+humidity = 349
+
+x
+temperature = 244
+humidity = 350
+
+x
+temperature = 244
+humidity = 349
+
+x
+temperature = 244
+humidity = 349
+
+x
+temperature = 244
+humidity = 348
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 346
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 244
+humidity = 347
+
+x
+temperature = 243
+humidity = 347
+
+x
+temperature = 243
+humidity = 347
+
+x
+temperature = 243
+humidity = 347
+
+x
+temperature = 243
+humidity = 347
+
+x
+temperature = 243
+humidity = 347
+
+x
+temperature = 243
+humidity = 347
+
+x
+temperature = 243
+humidity = 347
+
+x
+temperature = 243
+humidity = 347
+
+x
+temperature = 243
+humidity = 348
+
+x
+temperature = 243
+humidity = 348
+
+x
+temperature = 243
+humidity = 348
+
+x
+temperature = 243
+humidity = 348
+
+x
+temperature = 243
+humidity = 348
+
+x
+temperature = 243
+humidity = 348
+
+x
+temperature = 243
+humidity = 348
+
+x
+temperature = 243
+humidity = 349
+
+x
+temperature = 243
+humidity = 348
+
+x
+temperature = 243
+humidity = 348
+
+x
+temperature = 243
+humidity = 347
+
+x
+temperature = 243
+humidity = 347
+
+x
+temperature = 243
+humidity = 347
+
+x
+temperature = 243
+humidity = 348
+
+x
+temperature = 243
+humidity = 348
+
+x
+temperature = 243
+humidity = 348
+
+x
+temperature = 243
+humidity = 349
+
+x
+temperature = 242
+humidity = 348
+
+x
+temperature = 243
+humidity = 349
+
+x
+temperature = 242
+humidity = 348
+
+x
+temperature = 242
+humidity = 348
+
+x
+temperature = 242
+humidity = 348
+
+x
+temperature = 242
+humidity = 348
+
+x
+temperature = 242
+humidity = 349
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 243
+humidity = 351
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 349
+
+x
+temperature = 242
+humidity = 349
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 353
+
+x
+temperature = 242
+humidity = 353
+
+x
+temperature = 242
+humidity = 353
+
+x
+temperature = 242
+humidity = 353
+
+x
+temperature = 242
+humidity = 353
+
+x
+temperature = 242
+humidity = 353
+
+x
+temperature = 242
+humidity = 353
+
+x
+temperature = 242
+humidity = 353
+
+x
+temperature = 242
+humidity = 353
+
+x
+temperature = 242
+humidity = 353
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 353
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 349
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 349
+
+x
+temperature = 242
+humidity = 349
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 242
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 354
+
+x
+temperature = 241
+humidity = 354
+
+x
+temperature = 241
+humidity = 354
+
+x
+temperature = 241
+humidity = 354
+
+x
+temperature = 241
+humidity = 354
+
+x
+temperature = 241
+humidity = 354
+
+x
+temperature = 241
+humidity = 354
+
+x
+temperature = 241
+humidity = 354
+
+x
+temperature = 241
+humidity = 354
+
+x
+temperature = 241
+humidity = 354
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 349
+
+x
+temperature = 241
+humidity = 349
+
+x
+temperature = 241
+humidity = 349
+
+x
+temperature = 241
+humidity = 349
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 350
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 353
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 242
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 241
+humidity = 351
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 353
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 242
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+temperature = 241
+humidity = 352
+
+x
+
+Thanks for using picocom
+picocom v2.2
+
+port is        : /dev/ttyUSB0
+flowcontrol    : none
+baudrate is    : 57600
+parity is      : none
+databits are   : 8
+stopbits are   : 1
+escape is      : C-a
+local echo is  : no
+noinit is      : no
+noreset is     : no
+nolock is      : no
+send_cmd is    : sz -vv
+receive_cmd is : rz -vv -E
+imap is        : 
+omap is        : 
+emap is        : crcrlf,delbs,
+
