@@ -5,7 +5,7 @@
 
 #include <JeeLib.h>
 
-DHTxx dht (6); // connected to DIO3
+DHTxx dht (4); // DIO1 == 4. DIO3 == 6?  DI02 == 5?
 
 void setup () {
   Serial.begin(57600);
@@ -21,6 +21,6 @@ void loop () {
     Serial.println(h);
     Serial.println();
   }
-  Serial.println("-");
+  Serial.println("x");
   delay(3000);
 }
